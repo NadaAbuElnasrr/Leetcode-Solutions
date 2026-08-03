@@ -1,19 +1,18 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int maxLength = 0, l = 0;
-        HashMap<Integer, Integer> window = new HashMap<>();
+        //Dinamic sliding window 
+        int l = 0, ans = 0;
+        HashMap<Integer, Integer> freq = new HashMap<>();
         for (int r = 0; r < fruits.length; r++) {
-            window.put(fruits[r], window.getOrDefault(fruits[r], 0) + 1);
-            while (window.size() > 2) {
-                window.put(fruits[l], window.get(fruits[l]) - 1);
-                if (window.get(fruits[l]) == 0)
-                    window.remove(fruits[l]);
-                l++;
+            freq.put(fruits[r], freq.getOrDefault(fruits[r], 0) + 1);
+            while (freq.size() > 2) {
+                freq.put(fruits[l], freq.get(fruits[l]) - 1);
+                if (freq.get(fruits[l]) == 0)
+                    freq.remove(fruits[l]);
+                l++;    
             }
-
-            if (r - l + 1 > maxLength)
-                maxLength = r - l + 1;
+            ans = Math.max(ans, r - l + 1);
         }
-        return maxLength;
+        return ans;
     }
 }
