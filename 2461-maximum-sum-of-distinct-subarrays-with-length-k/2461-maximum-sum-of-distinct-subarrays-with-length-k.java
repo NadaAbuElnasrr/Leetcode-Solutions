@@ -1,20 +1,25 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        long maxSum = 0, windowSum = 0;
-        int l = 0;
+        //fixed sliding window 
         HashMap<Integer, Integer> freq = new HashMap<>();
-        for (int r = 0; r < nums.length; r++) {
-            freq.put(nums[r], freq.getOrDefault(nums[r], 0) + 1);
-            windowSum += nums[r];
-            if (r - l + 1 == k) {
-                if (freq.size() == k) {
-                    if (windowSum > maxSum)
-                        maxSum = windowSum;
-                }
-                windowSum -= nums[l];
-                freq.put(nums[l], freq.get(nums[l]) - 1);
-                if(freq.get(nums[l])==0) freq.remove(nums[l]);
-                l++;
+        long maxSum = 0, windowSum = 0;
+        for (int i = 0; i < k; i++) {
+            freq.put(nums[i], freq.getOrDefault(nums[i], 0) + 1);
+            windowSum += nums[i];
+        }
+        if (freq.size() == k) {
+            maxSum = Long.max(maxSum, windowSum);
+        }
+        for (int i = k; i < nums.length; i++) {
+
+            freq.put(nums[i], freq.getOrDefault(nums[i], 0) + 1);
+            freq.put(nums[i - k], freq.getOrDefault(nums[i - k], 0) - 1);
+            if (freq.get(nums[i - k]) == 0)
+                freq.remove(nums[i - k]);
+            windowSum += nums[i];
+            windowSum -= nums[i - k];
+            if (freq.size() == k) {
+                maxSum = Long.max(maxSum, windowSum);
             }
         }
         return maxSum;
