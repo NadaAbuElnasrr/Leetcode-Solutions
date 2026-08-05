@@ -1,31 +1,33 @@
 class Solution {
-    public boolean equal(int[] s1, int[] s2) {
-        for (int i = 0; i < 26; i++) {
-            if (s1[i] != s2[i])
-                return false;
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> indxs = new ArrayList<>();
+        if (s.length() < p.length()) return indxs;
+
+        String window = "";
+        for (int i = 0; i < p.length(); i++) {
+            window += s.charAt(i);
         }
-        return true;
+
+        String sortedP = sortString(p);
+        
+        for (int i = p.length(); i < s.length(); i++) {
+            String sortedWindow = sortString(window);
+            if (sortedWindow.equals(sortedP)) {
+                indxs.add(i - p.length());
+            }
+            window = window.substring(1) + s.charAt(i);
+        }
+        
+        if (sortString(window).equals(sortedP)) {
+            indxs.add(s.length() - p.length());
+        }
+
+        return indxs;
     }
 
-    public List<Integer> findAnagrams(String s, String p) {
-        ArrayList<Integer> indxs = new ArrayList<>();
-        if (s == null || p == null || s.length() < p.length()) {
-            return indxs;
-        }
-        int[] pCnt = new int[26];
-        int[] sCnt = new int[26];
-        for (int i = 0; i < p.length(); i++) {
-            pCnt[p.charAt(i) - 'a']++;
-            sCnt[s.charAt(i) - 'a']++;
-        }
-        if (equal(pCnt, sCnt))
-            indxs.add(0);
-        for (int i = p.length(); i < s.length(); i++) {
-            sCnt[s.charAt(i) - 'a']++;
-            sCnt[s.charAt(i - p.length()) - 'a']--;
-            if (equal(pCnt, sCnt))
-                indxs.add(i - p.length() + 1);
-        }
-        return indxs;
+    public String sortString(String s) {
+        char[] arr = s.toCharArray();
+        Arrays.sort(arr);
+        return new String(arr);
     }
 }
