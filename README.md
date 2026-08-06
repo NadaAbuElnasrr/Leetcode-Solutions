@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
 | ------- |
@@ -55,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
