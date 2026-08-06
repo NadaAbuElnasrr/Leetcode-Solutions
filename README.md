@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
