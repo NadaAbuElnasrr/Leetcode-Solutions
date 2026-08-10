@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -88,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
