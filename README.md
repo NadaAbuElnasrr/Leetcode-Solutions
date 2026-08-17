@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
