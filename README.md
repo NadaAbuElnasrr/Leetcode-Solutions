@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -163,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NadaAbuElnasrr/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
